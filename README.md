@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2023/12/28〜20240113 、タイ旅行 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2023/12/28〜2024/01/13 、タイ旅行 !!!</marquee></span></h1>
 
 
 <!--ここから下が、本体部分-->
