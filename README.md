@@ -298,7 +298,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-Copyright 2023/11/17 S.Hada
+Copyright 2023/12/29 S.Hada
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
